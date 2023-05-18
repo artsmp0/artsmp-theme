@@ -1,7 +1,7 @@
 <h1 align="center">Artsmp Dark Theme for VS Code</h1>
 
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="images/preview.png" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=artsmp.artsmp-theme" target="__blank"><img src="images/preview.png" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
 <p align="center">
