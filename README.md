@@ -1,16 +1,16 @@
-# artsmp-theme README
+<h1 align="center">Artsmp Dark Theme for VS Code</h1>
 
-## Working with Markdown
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="images/preview.png" alt="Visual Studio Marketplace Version" /></a>
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a><br>
+&nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons">Catppuccin Icons for VSCode</a><br>
+Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo | <a href="https://github.com/element-plus/element-plus">Element Plus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Thanks
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This project is based on [material-dark-vscode](https://github.com/xrei/material-dark-vscode).

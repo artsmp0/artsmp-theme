@@ -3,6 +3,8 @@
   "displayName": "Artsmp Theme",
   "description": "A dark theme, inspired by the Material Theme.",
   "version": "0.0.1",
+  "license": "MIT",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -14,8 +16,12 @@
       {
         "label": "artsmp-dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Artsmp Dark-color-theme.json"
+        "path": "./themes/artsmp-dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsmp0/artsmp-theme.git"
   }
 }

@@ -21,7 +21,7 @@
     "tab.activeBorder": "#F3A580",
     "editor.background": "#0d0d0d",
     "editor.foreground": "#eeeeee",
-    "editor.lineHighlightBackground": "#00000066",
+    "editor.lineHighlightBackground": "#eeeeee33",
     "editor.selectionBackground": "#eeeeee33",
     "editor.findMatchHighlightBackground": "#eeeeee66",
     "editorIndentGuide.background": "#00000000",
