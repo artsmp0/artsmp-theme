@@ -1,0 +1,21 @@
+{
+  "name": "artsmp-theme",
+  "displayName": "Artsmp Theme",
+  "description": "A dark theme, inspired by the Material Theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "artsmp-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Artsmp Dark-color-theme.json"
+      }
+    ]
+  }
+}
